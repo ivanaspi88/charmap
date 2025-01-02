@@ -1,0 +1,1 @@
+module github.com/ivanaspi88/charmap
